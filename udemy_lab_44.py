@@ -37,4 +37,4 @@ line = '{0:s} {1:d}'
  
 print(line.format('ICE CREAM', 3))
 print(line.format('TRIP TO VENICE', 119))
-print(line.format('PIZZA HAWAII', 6))
+printc(line.format('PIZZA HAWAII', 6))
